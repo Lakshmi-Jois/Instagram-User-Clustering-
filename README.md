@@ -121,5 +121,5 @@ targeting strategies
 
 ## Author
 
-Your Name\
+Lakshmi BS
 Data Science \| Machine Learning \| User Behavior Analytics
